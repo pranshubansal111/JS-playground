@@ -1,0 +1,11 @@
+// DAY 01 - Learning JS
+
+//Beginning with JS
+console.log("Hello World");
+
+console.log("Namaste");
+
+console.log(5+10); //15
+
+console.log(10+3*7) // 31 
+

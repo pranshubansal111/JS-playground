@@ -5,7 +5,8 @@ console.log("Hello World");
 
 console.log("Namaste");
 
-console.log(5+10); //15
+console.log(5+10); //output - 15
 
-console.log(10+3*7) // 31 
+console.log(10+3*7) //output - 31 
+
 
